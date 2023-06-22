@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Github Profile</string>
+    <string name="user_picture">user picture</string>
+    <string name="username">username</string>
+    <string name="search">search bar</string>
+    <string name="search_field">search username here</string>
+    <string name="name">name</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="no_followers">No Followers</string>
+    <string name="no_following">No Following</string>
+    <string name="followers_num">%s Followers</string>
+    <string name="following_num">%s Following</string>
+    <string name="tab_layout">tab layout</string>
+    <string name="view_pager">view pager</string>
+    <string name="add_to_favorite">add to favorite</string>
+    <string name="added_to_favorite">added to favorite</string>
+    <string name="favorite_button">favorite button</string>
+    <string name="dark_mode">dark mode</string>
+    <string name="light_mode">light mode</string>
+    <string name="dark_mode_setting">dark mode setting</string>
+    <string name="github_profile">GitHub Profile</string>
+    <string name="no_favorite_user">No Favorite User</string>
+    <string name="user_not_found">User Not Found</string>
+</resources>

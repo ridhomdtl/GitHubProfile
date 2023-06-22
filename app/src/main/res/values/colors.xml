@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aqua_200">#5DCCD6</color>
+    <color name="aqua_500">#00B9BF</color>
+    <color name="aqua_700">#00A4B3</color>
+    <color name="aqua_font">#008591</color>
+    <color name="teal_200">#03CCB5</color>
+    <color name="teal_700">#01876C</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
